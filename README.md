@@ -1,6 +1,6 @@
-## Umbrel Community App Store Template
+## Athena Umrbrel Community App Store
 
-This repository is a template to create an Umbrel Community App Store. These additional app stores allow developers to distribute applications without submitting to the [Official Umbrel App Store](https://github.com/getumbrel/umbrel-apps).
+This repository is a A personal customized collection of apps for our home server.
 
 ## How to use:
 
