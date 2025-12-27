@@ -4,7 +4,7 @@ services:
   app_proxy:
     environment:
       APP_HOST: athena-spooty_server_1
-      APP_PORT: 8989
+      APP_PORT: 3000
 
   server:
     image: raiper34/spooty:latest
