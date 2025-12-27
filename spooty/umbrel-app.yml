@@ -1,0 +1,23 @@
+id: spooty
+name: Spooty
+version: "1.0.0"
+tagline: Download Spotify playlists using YouTube sources
+description: |
+  Spooty downloads tracks by matching Spotify metadata with YouTube audio
+  and tagging files accordingly. It does NOT download original Spotify files.
+
+developer: Raiper34
+website: https://github.com/Raiper34/spooty
+repo: https://github.com/Raiper34/spooty
+support: https://github.com/Raiper34/spooty/issues
+
+port: 8989
+
+icon: icon.png
+gallery:
+  - screenshot-1.png
+
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
