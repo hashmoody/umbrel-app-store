@@ -1,6 +1,2 @@
 id: "athena"
 name: "Athena"
-
-apps:
-  - "athena-store-hello-world"
-  - "spooty"
