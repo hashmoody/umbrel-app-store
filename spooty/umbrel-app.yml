@@ -1,21 +1,29 @@
+manifestVersion: 1
+
 id: spooty
 name: Spooty
-version: "1.0.0"
 tagline: Download Spotify playlists using YouTube sources
-description: |
-  Spooty downloads tracks by matching Spotify metadata with YouTube audio
-  and tagging files accordingly. It does NOT download original Spotify files.
+icon: https://raw.githubusercontent.com/Raiper34/spooty/main/assets/logo.png
+category: Media
+version: "1.0.0"
+port: 8989
+
+description: >-
+  Spooty downloads tracks by matching Spotify metadata with YouTube audio and tagging them.
+  Note: This does NOT download original Spotify files.
 
 developer: Raiper34
 website: https://github.com/Raiper34/spooty
+submitter: Hash Moody
+submission: https://github.com/hashmoody/umbrel-app-store
 repo: https://github.com/Raiper34/spooty
 support: https://github.com/Raiper34/spooty/issues
 
-port: 8989
-
-icon: icon.png
 gallery:
-  - screenshot-1.png
+  - https://i.imgur.com/yyVG0Jb.jpeg
+
+releaseNotes: >-
+  Initial Umbrel app packaging.
 
 dependencies: []
 path: ""
