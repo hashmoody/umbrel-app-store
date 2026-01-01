@@ -3,7 +3,7 @@ manifestVersion: 1
 id: athena-typeshelf
 name: TypeShelf
 tagline: Self-hosted font library manager
-icon: https://raw.githubusercontent.com/Azoora/TypeShelf/main/icon.png
+icon: https://raw.githubusercontent.com/Azoora/TypeShelf/icon.png
 category: Files
 version: "0.1.2"
 port: 5000
