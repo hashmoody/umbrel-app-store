@@ -10,7 +10,7 @@ port: 5000
 
 description: >-
   TypeShelf is a self-hosted font manager to scan folders, preview font families,
-  and organize fonts into collections.
+  and organize fonts into collections. Use folders like /host-fonts/SansSerif (Mounts to - /home/umbrel/umbrel/home/Installers/Fonts:/host-fonts:ro)
 
 developer: Azoora
 website: https://github.com/Azoora/TypeShelf
