@@ -20,7 +20,6 @@ services:
       SESSION_SECRET: ${APP_PASSWORD}
 
     # Ensure DB tables exist before starting
-    command: sh -c "npm run db:push && node dist/index.cjs"
     command: node dist/index.cjs
 
     volumes:
