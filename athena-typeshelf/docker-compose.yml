@@ -21,9 +21,11 @@ services:
 
     # Ensure DB tables exist before starting
     command: sh -c "npm run db:push && node dist/index.cjs"
+    command: node dist/index.cjs
 
     volumes:
       - ${APP_DATA_DIR}/fonts:/app/fonts
+      - /home/umbrel/umbrel/home/Installers/Fonts:/host-fonts:ro
 
     depends_on:
       - db
