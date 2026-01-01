@@ -1,0 +1,30 @@
+manifestVersion: 1
+
+id: athena-typeshelf
+name: TypeShelf
+tagline: Self-hosted font library manager
+icon: https://raw.githubusercontent.com/Azoora/TypeShelf/main/icon.png
+category: Files
+version: "0.1.0"
+port: 5000
+
+description: >-
+  TypeShelf is a self-hosted font manager to scan folders, preview font families,
+  and organize fonts into collections.
+
+developer: Azoora
+website: https://github.com/Azoora/TypeShelf
+submission: https://github.com/hashmoody/umbrel-app-store
+repo: https://github.com/Azoora/TypeShelf
+support: https://github.com/Azoora/TypeShelf/issues
+
+gallery:
+  - https://i.imgur.com/yyVG0Jb.jpeg
+
+releaseNotes: >-
+  Initial Umbrel release.
+
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
