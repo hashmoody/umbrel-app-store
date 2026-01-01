@@ -24,6 +24,7 @@ services:
 
     volumes:
       - ${APP_DATA_DIR}/fonts:/app/fonts
+      - ${APP_DATA_DIR}/data:/app/data
       - /home/umbrel/umbrel/home/Installers/Fonts:/host-fonts:ro
 
     depends_on:
